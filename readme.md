@@ -10,12 +10,12 @@
 
 본 프로젝트는 이론적으로 가장 높은 성능보다는 실제 환경에서 사용 가능한 AI 영상 처리 시스템을 지향한다.
 
-> 프레임 보간 gif
-> ![30ball.gif](img/30ball.gif)
-> 30fps
-> ![60ball.gif](img/60ball.gif)
-> 60fps
-> ![Video Project 4.gif](img/Video%20Project%204.gif)
+> 프레임 보간 gif\
+> ![30ball.gif](img/30ball.gif)\
+> 30fps\
+> ![60ball.gif](img/60ball.gif)\
+> 60fps\
+> ![Video Project 4.gif](img/Video%20Project%204.gif)\
 > 사용하는 모니터에 따라 다를 수 있음.
 
 ---
@@ -50,8 +50,9 @@
 이에 따라 본 프로젝트에서는 화질과 처리 속도 간의 균형을 고려하여 x2 업스케일링 방식을 채택하였다.
 
 
-> 1.처리 전 2.처리 후
-> ![전.png](img/%EC%A0%84.png) ![후.png](img/%ED%9B%84.png)
+> 1.처리 전 
+> ![전.png](img/%EC%A0%84.png) \
+> 2.처리 후![후.png](img/%ED%9B%84.png)
 > 빨간 차를 자세히 보면 좀 선명해진걸 알 수 있다.
 ---
 
