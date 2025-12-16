@@ -16,7 +16,7 @@
 > ![60ball.gif](img/60ball.gif)\
 > 60fps\
 > ![Video Project 4.gif](img/Video%20Project%204.gif)\
-> 사용하는 모니터에 따라 다를 수 있음.
+> 위 : 30fps 아래 : 60 fps 사용하는 모니터에 따라 다를 수 있음.
 
 ---
 
